@@ -10,4 +10,7 @@ By building libraries, tools, and frameworks ourselves, we not only sharpen our 
 comprehension of the underlying principles. 🪄
 
 ## Projects 📜
-- [Testing Library] -  JS Testing Library - for those who want to understand the inner workings of testing libraries.
+- [Testing Library](https://github.com/mutasim77/lets-build-x/tree/master/testing-library) -  JS Testing Library - for those who want to understand the inner workings of testing libraries.
+
+### Contributing 🔗
+🌟 Your contributions are welcome! Check our [guide](https://github.com/mutasim77/lets-build-x/blob/master/.github/CONTRIBUTING.md) and join the collaboration!
