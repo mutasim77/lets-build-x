@@ -1,4 +1,4 @@
-! [Banner Logo](./.github/banner.png)
+![Banner Logo](./.github/banner.png)
 
 Welcome to "Let's Build X" – a collection of projects where we dive deep into building various libraries and tools from scratch. 
 The goal of this repository is to provide hands-on learning experiences for those who want to understand the inner workings 
