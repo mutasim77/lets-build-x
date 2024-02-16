@@ -1,4 +1,4 @@
-# Dynamic Array 📊
+# Dynamic Array 💎
 
 Hey) here's a simple implementation of a dynamic array in Java.
 
