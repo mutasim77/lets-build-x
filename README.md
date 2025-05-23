@@ -14,6 +14,7 @@ comprehension of the underlying principles. 🪄
 - [Dynamic Array](https://github.com/mutasim77/lets-build-x/tree/master/dynamic-array) -  Dynamic Array in Java - for those who seek insight into the mechanics of dynamically resizing arrays.
 - [Redis Clone](https://github.com/mutasim77/lets-build-x/tree/master/redis) - Simple Redis implementation in Go - for those curious about how in-memory databases and caching systems work.
 - [HTTP Server](https://github.com/mutasim77/lets-build-x/tree/master/http-server) - Custom HTTP Server in NodeJS & TS - for those interested in understanding the fundamentals of web servers and network programming.
-
+- [Simple Git](https://github.com/mutasim77/lets-build-x/tree/master/simple-git) - Git implementation from scratch in Go - for those who want to understand how version control systems work under the hood.
+  
 ### Contributing 🔗
 🌟 Your contributions are welcome! Check our [guide](https://github.com/mutasim77/lets-build-x/blob/master/.github/CONTRIBUTING.md) and join the collaboration!
